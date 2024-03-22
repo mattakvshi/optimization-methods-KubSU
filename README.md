@@ -1,4 +1,4 @@
-# optimization-methods-KubSU #
+# optimization-methods-KubSU 
 
 Репазиторий с лабораторными работами по предмету методы оптимизации
 ---
