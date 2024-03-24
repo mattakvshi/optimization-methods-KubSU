@@ -8,6 +8,8 @@
 ---
  `Bython` - это препроцессор `Python`, который преобразует фигурные скрбки в отступы.
 
+# How to work with bython?
+
 **Code example**
 
 ```
